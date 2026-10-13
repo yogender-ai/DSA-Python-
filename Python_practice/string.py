@@ -1,7 +1,4 @@
-s=""
-a="abc"
-for x in a:
-    s+=x
-print(s)
-
-new=
+from math import ceil as c
+a=3
+b=6
+print(c(a//b))
